@@ -1,0 +1,8 @@
+Model,Correct,Incorrect
+Autoencoder,88165,93223
+Isolation Forest,96352,85036
+LSTM,90096,91292
+LightGBM,91073,90315
+MLP,89955,91433
+Random Forest,90791,90597
+XGBoost,91138,90250
